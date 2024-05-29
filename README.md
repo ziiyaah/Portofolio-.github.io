@@ -1,2 +1,2 @@
-# Website-ManggoDetection.github.io
-Pendeteksi Kualitas Mangga berbasis website
+# Portofolio-github.io
+Project UTS Pemrograman Web Berbasis Framework
